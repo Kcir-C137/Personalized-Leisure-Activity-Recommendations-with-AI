@@ -1,4 +1,4 @@
-### Personalized-Leisure-Activity-Recommendations-with-AI
+# Personalized-Leisure-Activity-Recommendations-with-AI
 
 ## **Idea in a Nutshell:**  
 The idea is to create an AI-powered virtual assistant that provides personalized recommendations for leisure activities. It collects user preferences, interests, and constraints, and uses machine learning algorithms to analyze data from various sources to suggest relevant and tailored leisure options. The assistant aims to help users discover new activities, make informed choices, and maximize their enjoyment of leisure time.
